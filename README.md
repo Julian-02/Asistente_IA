@@ -6,6 +6,7 @@ Este es un asistente inteligente que genera artículos, fragmentos de código y 
 
 - ✍️ Generación de artículos optimizados para SEO.
 
+![image](https://github.com/user-attachments/assets/b84ef388-d977-4621-92f5-e582d805b186)
 
 - 💻 Generación de código en múltiples lenguajes.
   
