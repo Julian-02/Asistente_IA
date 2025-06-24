@@ -2,6 +2,8 @@
 
 Este es un asistente inteligente que genera artículos, fragmentos de código y tablas de datos usando un modelo alojado localmente en LM Studio.
 
+Link del video exponiendo el proyecto: https://youtu.be/0B4ZF6XrCWA?si=H_L2SigwXytlfP2E
+
 ## 📦 Funcionalidades
 
 - ✍️ Generación de artículos optimizados para SEO.
