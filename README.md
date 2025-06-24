@@ -16,7 +16,4 @@ Este es un asistente inteligente que genera artículos, fragmentos de código y 
 
 ## ▶️ Cómo usar
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/asistente_ia.git
-   cd asistente_ia
+1. Cuando se ingresa al link de la aplicación encontrará una sección para seleccionar la funcionalidad que requiera utilizar, cada función tiene una caja de texto donde puede escribir lo quer requiere realizar dependiendo de la función selccionada, el sistema tiene la posibilidad de generar articulos, codigos SQL de diferentes lenguajes y tablas con datos. 
