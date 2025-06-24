@@ -5,7 +5,12 @@ Este es un asistente inteligente que genera artículos, fragmentos de código y 
 ## 📦 Funcionalidades
 
 - ✍️ Generación de artículos optimizados para SEO.
+
+
 - 💻 Generación de código en múltiples lenguajes.
+  
+![image](https://github.com/user-attachments/assets/62ebd07b-7d0d-4988-884f-74c91e7c9921)
+
 - 📊 Generación de tablas de datos en formato CSV.
 
 ## 🚀 Requisitos
